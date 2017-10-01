@@ -1,0 +1,491 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+font-family: "MyFont";
+  src: url(../font/neko.woff)format("woff");
+}
+
+/*-----------reset------------*/
+html,body,h1,h2,h3,p,q,ul,li,dl,dt,dd{
+	margin:0;
+	padding:0;
+	line-height:1.0;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;}
+	
+ul{
+	list-style:none;}
+a{
+	text-decoration:none;
+	color: #000000;}
+img{
+     border:none;
+	 vertical-align:bottom;}
+	 
+/*-----------------margin--------------*/
+.mb10{margin-bottom: 10px;}.mb20{margin-bottom: 20px;}.mb30{margin-bottom: 30px;}.mb40{margin-bottom: 40px;}.mb50{margin-bottom: 50px;}.mb60{margin-bottom: 60px;}
+/*------------------all------------------*/
+body{
+background: #FFF884;
+}
+
+q {
+	font-style:italic;
+	color:red;
+}
+
+h1 {
+	font-size:40px;
+}
+
+h2 {font-size: 34px;
+}
+h3{
+font-size: 24px;margin-bottom: 20px;}
+
+h4 {
+	color:#444;
+	font-size:1.11em;
+	margin:1em 0;
+}
+
+p{
+line-height: 1.5;
+}
+/*--------------------color-------------*/
+.white{
+background: #FFFFFF;
+}
+.yellow{
+background: #FFF884;}
+
+.green{
+background: #0DC49A;}
+
+/*-----------------main-------------------*/
+
+
+
+.container{
+max-width:100%;}
+.wrap{
+max-width:960px;margin:0 auto;}
+
+
+/*----------------header-----------------*/
+header{
+width:100%;height: 100vh;overflow: hidden;
+position: absolute;z-index: 300;}
+
+header h1{
+color:#FFD553;font-family: MyFont, sans-serif;
+font-size:38px;letter-spacing:-5px;
+margin: 10px 0 0 20px;height:60px;
+line-height:40px;float: left;}
+
+
+/*------------nav----------------*/
+
+nav{font-family: "Rounded Mplus 1c";
+width:400px;margin: 100px auto 0;overflow: hidden;}
+
+nav ul li{font-size: 12px;width:100px;
+float: left;height: 40px;line-height: 34px;
+text-align: center;margin:5px 10px ;}
+
+nav ul li a{
+display: block;color: #393939;
+background:#17C39C;border:#1A876E 3px solid;box-sizing: border-box;
+border-radius: 4px;
+}
+nav ul li a:hover{
+background:#E67D22;border:#E89A4F 4px solid;}
+
+
+
+
+/*-------------------------main--------------------------*/
+.textbox{
+overflow: hidden;}
+/*------------flrexslider--------------*/
+.flexslider{
+height:100vh;overflow: hidden; }
+/*-------------about-----------------*/
+.aboutwrap{
+overflow: hidden;
+width:100%;
+}
+
+.about .subtext{
+font-size: 20px;
+}
+
+.aboutbox{
+float: left;
+width:31.579%;
+margin-left: 20px;
+}
+.aboutbox:first-child{
+margin-left: 0;
+}
+
+.aboutbox img{
+max-width: 100%;
+margin-bottom: 10px;
+}
+
+.abouttitle{
+font-size: 20px;
+margin-bottom: 10px;
+font-weight: bold;
+}
+.abouttext{
+font-size: 16px;
+line-height: 1.5;
+}
+/*-------------event-----------------*/
+.event{
+overflow: hidden;}
+#eventbox{
+max-width:600px;
+margin: 0 auto;
+}
+.event img{width: 46%;margin: 2%;float: left;}
+
+.detail{float: right;height: 40px;}
+.detail a{background: #0DC49A;padding:10px; color: #FFFFFF;border-radius: 4px;}
+/*-------------crew-----------------*/
+#controls{overflow: hidden;}
+#controls>.filter {
+  float:left;
+  margin: 20px 10px;
+  padding: 0 30px;
+  line-height: 30px;
+  box-sizing: border-box;
+  background: #FFF;
+  border: 1px solid #CCC;
+  border-radius: 4px;
+  text-align: center;
+  color: #666;
+  cursor: pointer;
+  font-weight: bold;
+}
+#controls>.filter:hover {
+  background: #7F7F7F;
+  color: #FFF;
+}
+
+#crewcontent{
+overflow: hidden;}
+
+.grid{
+overflow: hidden;
+}
+
+.grid dl,.up{
+display: none;
+}
+
+li.crew{
+max-width:18.9%;
+float: left;
+margin-left: 10px
+}
+.crew:nth-child(5),.crew:nth-child(10),.crew:nth-child(15){
+margin-right: 10px;
+}
+
+.crew .asha{
+max-width: 100%;}
+.crew .up{
+overflow: hidden;height:30px;}
+
+.crew .clown{
+float: left;line-height:16px;font-size: 16px;
+}
+.clown{
+background:#595959;
+color:#FFFFFF;
+padding:4px;
+border-radius: 4px;
+}
+
+.picon{
+float:right;
+}
+
+.picon img{
+width: 24px;
+margin-right: 6px;}
+
+.acoa{
+margin-bottom:10px;}
+
+.acob{
+margin: 0 20px;}
+
+
+.crew dl dt{
+font-size:22px;margin-bottom: 4px;
+font-weight: bold;}
+
+.crew dl dd{
+font-size: 14px;line-height: 1.5;}
+
+.crew dl dd.credit{
+font-size: 12px;margin-bottom: 6px;}
+/*-------------mascot-----------------*/
+.mascot{
+position: relative;
+background: #FFFFFF;
+}
+.mascot ul{
+overflow: hidden;
+}
+.mascot h2{
+color: #FFFFFF;
+font-weight: bold;
+font-size: 4vw;
+position: absolute;
+top: -8%;
+left: 31%;
+letter-spacing: 30px;
+}
+.mascot ul li{
+float: left;
+width:20%;
+height: 70px;
+text-align: center;
+padding-top:13vw;
+font-size: 1.6vw;
+font-weight: bold;
+color:#432A1C;
+text-shadow: 2px 2px 0px #fff,-2px -2px 0px #fff,-2px 2px 0px #fff,2px -2px 0px #fff;
+}
+.mascot ul li:nth-child(1){
+background: url(../img/mascot/priscilla.jpg)no-repeat;
+background-size:contain;
+}
+.mascot ul li:nth-child(2){
+background: url(../img/mascot/yaoai.jpg)no-repeat;
+background-size:contain;
+}.mascot ul li:nth-child(3){
+background: url(../img/mascot/rena.jpg)no-repeat;
+background-size:contain;
+}.mascot ul li:nth-child(4){
+background: url(../img/mascot/mashiro.jpg)no-repeat;
+background-size:contain;
+}.mascot ul li:nth-child(5){
+background: url(../img/mascot/vi.jpg)no-repeat;
+background-size:contain;
+}
+/*-------------party venue-----------------*/
+.space{
+overflow: hidden;
+}
+.venue{
+float: left;
+overflow: hidden;
+width: 49%;
+height: 200px;
+border: 2px solid #000;
+box-sizing: border-box;
+}
+.venueboxl{
+margin-right: 2%;
+
+}
+.venueboxr{
+height: 400px;
+}
+
+.venue dl{
+padding:20px;
+}
+
+.venue dl dt{
+font-size: 24px;
+margin-bottom: 20px;
+}
+.venue dl dt a{
+display: block;
+color:#EB0075;
+font-weight: bold;}
+.venue dl dt a:hover{
+color: #FF83C8;}
+.venue dl dd{
+margin-bottom: 8px;}
+
+.venue dl dd:nth-child(3){
+margin-bottom: 16px;}
+/*---------------footer-------------*/
+footer{
+	text-align:center;
+	color:#252525;
+	background:#FFF890;
+	padding:20px;
+	}
+	
+
+
+#progress {
+	height:2%;
+	background:#D55557;
+	bottom:0;
+	z-index:200;
+}
+
+#scrollbar {
+	position:fixed;
+	right:2px;
+	height:50px;
+	width:6px;
+	background:#444;
+	background:rgba(0,0,0,0.6);
+	border:1px solid rgba(255,255,255,0.6);
+	z-index:300;
+	border-radius:3px;
+}
+
+.skrollr-desktop #scrollbar {display:none;}
+
+#bg1, #bg2, #bg3 {
+	z-index:50;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background:url(../img/bubbles.png) repeat 0 0;
+}
+
+#bg2 {
+	z-index:49;
+	background-image:url(../img/bubbles2.png);
+}
+
+#bg3 {
+	z-index:48;
+	background-image:url(../img/bubbles3.png);
+}
+
+#intro {
+	width:80%;
+	left:50%;
+	top:1em;
+	margin-left:-40%;
+	padding:2em;
+	background:#fff;
+	text-align:center;
+	border-radius:1em;
+
+	-webkit-transform-origin:0 0;
+	-moz-transform-origin:0 0;
+	-ms-transform-origin:0 0;
+	-o-transform-origin:0 0;
+	transform-origin:0 0;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#intro .arrows {
+	font-size:2em;
+	color:#09f;
+}
+
+#transform {
+	width:70%;
+	left:50%;
+	top:20%;
+	margin-left:-35%;
+	text-align:center;
+	font-size:150%;
+
+	.transform-origin(50%, 50%);
+}
+
+#properties {
+	width:100%;
+	height:100%;
+	padding-top:6%;
+	text-align:center;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#easing_wrapper {
+	width:100%;
+	height:100%;
+}
+
+#easing {
+position:absolute;
+	top:1%;
+	left:1%;
+	width:50%;
+	z-index:101;
+}
+
+.drop {
+
+}
+
+#download {
+	width:80%;
+	left:10%;
+	height:80%;
+	padding:3em;
+	border:0 solid #222;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.twitter-share-button, .twitter-follow-button {
+	vertical-align:middle;
+}
+
+
+
+/*-----fixed-positionning.css-----*/
+.skrollable {
+	/*
+	 * First-level skrollables are positioned relative to window
+	 */
+	position:fixed;
+
+	/*
+	 * Skrollables by default have a z-index of 100 in order to make it easy to position elements in front/back without changing each skrollable
+	 */
+	z-index:100;
+}
+
+.skrollr-mobile .skrollable {
+	/*
+		May cause issues on Android default browser (see #331 on GitHub).
+	*/
+	position:absolute;
+}
+
+.skrollable .skrollable {
+	/*
+	 * Second-level skrollables are positioned relative their parent skrollable
+	 */
+	position:absolute;
+}
+
+.skrollable .skrollable .skrollable {
+	/*
+	 * Third-level (and below) skrollables are positioned static
+	 */
+	position:static;
+}
+/*----------fixed-positionning.css end----------*/

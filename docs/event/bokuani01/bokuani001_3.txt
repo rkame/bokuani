@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>ぼくアニ第1話</title>
+<meta charset="UTF-8">
+<link href="http://snark.sub.jp/bokuani/event/bokuani01/css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="http://mplus-webfonts.sourceforge.jp/mplus_webfonts.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+<div class="container">
+<div class="header_bokuani">
+<h1>ぼく<span class="anikura">アニ</span></h1>
+<p>アニソンクラブイベント！ぼくアニ！！アニソンを聴きながらぼくたちで楽しもう♪</p>
+
+<div class="toptext">
+<h2>ぼくアニ第1話</h2>
+<p id="boku">ぼくたちでもアニクラできますか？から「ぼくアニ」に名前を変え、さらにパワーアップ！秋葉原MOGRAで開催です！！アットホームな雰囲気が特徴のアニソン原曲中心のDJイベントです。ぼくたちと一緒に楽しみましょう！</p>
+</div>
+</div>
+</div>
+<p><img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" src="http://snark.sub.jp/bokuani/img/bokuani01_fly.jpg" alt="ぼくアニフライヤー表"></p>
+<!-------day-->
+<div class="container yellow">
+<h2>DAY/ENTRANCE</h2>
+<div class="daybox">
+<ul class="days">
+<li>日時</li>
+<li>2017年<span><br></span>7月16日<span><br></span>(日曜日)</li>
+<li><dl><dt>OPEN</dt><dd>12:50</dd></dl></li>
+<li><dl><dt>START</dt><dd>13:00</dd></dl></li>
+<li><dl><dt>CLOSE</dt><dd>19:00</dd></dl></li>
+<li>※開始10分前から1階にのみ入場ができます。<br>
+※開催時間中はいつでも入場できます。ただし再入場は不可なのでご注意ください。<br>
+※終了時、速やかに退出できるようご協力お願い致します。着替え等は終了前に済ませておくとスムーズな退出ができます。</li>
+</ul>
+
+<ul>
+<li>入場料</li>
+<li><dl><dt>Door</dt><dd>¥2,500(1d)</dd></dl></li>
+<li><dl><dt>twinvite参加表明</dt><dd>¥2,000(1d)</dd></dl></li>
+<li><dl><dt>学生(学生証提示)</dt><dd>¥2,000(1d)</dd></dl></li>
+<li><dl><dt>コスプレ参加</dt><dd>¥1,500(1d)</dd></dl></li>
+<li><dl><dt>クローク</dt><dd>¥300</dd></dl></li>
+<li>※Door：当日入場です。<br>※(1d)：ドリンクが１杯ついてきます。<br>※入場時に免許書等の顔写真付き身分証が無い、もしくは成人に達していない場合は入場できますがお酒を注文できません。</li>
+</ul>
+</div>
+<div class="button_box"><p><a href="http://twvt.me/bokuani001" class="button_link">twinvite参加表明はこちら</a></p>
+</div>
+</div>
+
+<!------about-------->
+<div class="container white about">
+<h2>POINT</h2>
+<div class="aboutbox">
+<img src="http://snark.sub.jp/bokuani/img/mascot/athome.png" alt="アットホーム">
+<p class="abouttitle">アットホーム</p>
+<p class="abouttext">アットホームな雰囲気を大切にしているのでアニクラ初心者も安心して楽しめます。意外とお一人で来る方も多くいます。何かあればすぐにぼくアニクルーに話かけよう！</p>
+</div>
+<div class="aboutbox">
+<img src="http://snark.sub.jp/bokuani/img/mascot/cos.png" alt="コスプレ">
+<p class="abouttitle">コスプレ</p>
+<p class="abouttext">女子更衣室(無料)とクローク（有料）を用意しています。コスプレをしながらパーティを楽しめます。わからないことがあればコスプレスタッフが案内します。</p>
+</div>
+<div class="aboutbox">
+<img src="http://snark.sub.jp/bokuani/img/mascot/ohiru.png" alt="お昼開催">
+<p class="abouttitle">日曜お昼に開催</p>
+<p class="abouttext">13時から始まり19時に終わる。学生にも社会人にも優しい時間帯！いっぱい遊んだ後はまっすぐ家に帰るもよし！もう一軒行くのもよし！？</p>
+</div>
+
+</div>
+
+
+<!-----------djvjstaff---------->
+<div class="container gray">
+<h2>GUEST</h2>
+<ul class="guest"><li class="guestimg"><img src="http://snark.sub.jp/bokuani/img/guest/marg.jpg" alt="まじなる"></li>
+<li class="gbox">
+<div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/DJ_MarGenal" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/margenal/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+
+<dl><dt>DJ MarGenal</dt><dd class="credit">(ANISON INDEX!!/AniLab.)</dd><dd>2007年からDJとして活動を開始。HIPHOPをきっかけにクラブカルチャーに触れるが、昨今のアニソンDJブームの火付け役ともなったイベント「アニソンインデックス!!」への出演を皮切りにアニメソングを中心としたDJへと転向していく。<br>豊富な知識とスキルで頭角を表し、レギュラーイベント以外にも全国各地のアニソンイベントへ出演する中、2013年11月に新木場ageHaで秋葉原MOGRA主催のもと開催された「あきねっと-秋葉原インターネット音楽祭-」や、リスアニ!発の「アニソン系」クラブイベント「リスアニ!ナイト」、アイドル・アニソンなどを中心とした音楽イベント「@JAM」、ニッポン放送アナウンサー吉田尚記氏が主催するアニソンDJイベント「ヨシダワイヤー」など数々の大規模イベントにも出演、2016年に開催された「Nendoroid 10th Anniversary Live」ではPrizmmy☆のバックDJも務め、2014年に開催されたトリニティセブン×アニラボの公式コラボイベントでの共演をきっかけに「アニメジア」「AJ Night」等でアニメソングシンガー ZAQのバックDJを担当。</dd></dl></div></li></ul>
+
+
+<ul class="guest"><li class="guestimg"><img src="http://snark.sub.jp/bokuani/img/guest/rei.jpg" alt="01"></li>
+<li class="gbox"><div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/foreverYoung_01" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/Rei_N/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+
+<dl><dt>01</dt><dd class="credit">(DVAC/iPan2/ミリオン☆ステーション/とくもり)</dd><dd>仲間内で始めたアニソン原曲系イベントiPan2を皮切りに細々とDJ活動を開始。2014年末頃に、突如DJの楽しさを知り、本格的に練習し始め、2015年からは憧れのターンテーブルへ移行。アニソン好きなターンテーブルリストを集めたDJ集団 DVAC -Digital Vinyl Anime Crew-をDJ TATSUと発足。まだ未熟でありながらもタンテの面白さを普及しようと活動を開始。
+<br>大器晩成型と信じて羽ばたける日を夢見ている。</dd></dl>
+</div></li></ul>
+
+<ul class="guest"><li class="guestimg"><img src="http://snark.sub.jp/bokuani/img/guest/shoon.jpg" alt="shoon"></li>
+<li class="gbox"><div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/co_kiakashooon" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/koukitakahashi39/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+
+<dl><dt>SHOOON</dt><dd class="credit">(きるあにっ！/アニマス/ボカチバ)</dd><dd>ダンスを通じて興味本意でやってみたいと思ったのをキッカケに2011年頃、DJとしてのキャリアをスタート。
+HOUSE/techno/Electro/EDM/を中心に活動開始。<br>2013年に友人に誘われたアニクラに行って衝撃的な出会いをして、そこからすべてが変わってしまいA-POP中心のDJにシフトチェンジ。
+同時にVJにも興味を持ち始め、アニクラシーンで新たに活動開始。<br>2015年に関東へ上京し、新たな地で活動開始からわずか半年で活動範囲を広げ、各方面で活躍中の大御所DJ、声優、有名ボカロPと共演。また2015年には関東アニクラ大集結イベント"冬の宴2015"にも出演し、その後様々なイベントに出演。</dd></dl>
+</div></li></ul>
+
+<ul class="guest"><li class="guestimg"><img src="http://snark.sub.jp/bokuani/img/guest/acchin.jpg" alt="あっちん"></li>
+<li class="gbox"><div class="acob">
+<div class="up"><p class="clown">VJ</p><p class="picon"><a href="https://twitter.com/atnoah25/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/Yuichi_saikuro/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+
+<dl><dt>あっちん</dt><dd class="credit">(GOTTA VISION / SAGAMI ANIMATION / きるあに！)</dd><dd>2014年、関西にてVJを始める。<br>
+A-POPカルチャーとモーショングラフィックス、ユーモアを掛け合わせたハイブリッドなプレイでフロアに彩りを加える。<br>自身がオーガナイズする「GOTTA VISION」の夏の宴出場や台湾進出など、なにかと話題に事欠かない。</dd></dl></div></li></ul>
+
+<h2>CREW</h2>
+<ul class="grid">
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/kiya.jpg" alt="キヤ" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/kiya_piyo" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/kiyapiyo/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+<dl><dt><span class="new_mark">NEW</span>キヤ</dt><dd class="credit">(ニジロックフェスティバル)</dd><dd>1994年人間としてのキャリアをスタート。岐阜と東京を軽率に行き来しフロアにカワイイと感情を投下し続けている。近頃では秋葉原mograで行われているぼくアニの新レギュラーとなり、ますます目を離さないでください。お願いします。</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/smily.jpg" alt="すまいり" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ/VJ</p><p class="picon"><a href="https://twitter.com/smiry3333" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/smiry/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+<dl><dt>すまいり</dt><dd class="credit">(BARなごみ)</dd><dd>九州出身、関東在住、心は竹原。<br>2014年末のVJデビュー以降、温泉幼精、少年メイドなど複数のポジションで経験を積む。活動は多岐にわたり新人声優 烏丸いり千歳としての活躍も記憶に新しい。好きなアニメはたまゆら。好きなたまゆらは三谷かなえさん。</dd></dl>
+</div></li>
+
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/haibo.jpg" alt="はいすこあぼ〜い" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/hiscoreboy1022" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://soundcloud.com/hiscoreboy1022" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/soundcloud.png" alt="soundcloud"></a></p></div>
+
+<dl><dt>はいすこあぼ〜い</dt><dd class="credit">(Ani Alpha/茨城アニクラ道)</dd><dd>アニクラはいかがでしょう<br>どんな時も決して消えることの無い<br>無窮のアニソン、高まるアニソンが<br>みなさまをお待ちしています<br>アニクラはいかがでしょう？</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/haruinu.jpg" alt="はるいぬ" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/inukoharu" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/haruinu/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+
+<dl><dt>はるいぬ</dt><dd class="credit">(銚子アニソンフェス/僕たちのRomance)</dd><dd>2015年6月DJデビュー。ぼくアニではアイカツ、プリキュア、プリリズを中心とする女児アニメ担当。一応女性向けも担当するネオロマンサー兼ロデオガール。BLゲームに目がない事から付いたアダ名はホモワイフ。</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/humbarg.jpg" alt="ハンバーグ" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/EmptyOf" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://www.mixcloud.com/DJHanbagu/" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/MixCloud.png" alt="mixcloud"></a></p></div>
+
+<dl><dt>ハンバーグ</dt><dd class="credit">(Ani Alpha)</dd><dd>奈々さんとシンフォギアと剣と魔法とテンプレハーレムアニメが大好きなＤＪです！！
+最近は思い...出した！様に2000年代のちょい懐かしい曲を流しています！</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/snark.jpg" alt="すなぁく" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ/org</p><p class="picon"><a href="https://twitter.com/sunax9" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+<dl><dt>すなぁく</dt><dd class="credit">(アニこみゅ)</dd><dd>オーガナイザー・ＤＪ・イラスト・デザイン・雑用を行う何でも屋。主にゆるふわな日常系4コマ原作のアニメを応援している。<br>みんなに【ぼくアニ】を好きになってもらえるように盛り上げていきます！</dd></dl>
+</div></li>
+
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/bafarin.jpg" alt="バファリン" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">VJ</p><p class="picon"><a href="https://twitter.com/tky_zoo" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+
+<dl><dt>バファリン</dt><dd class="credit">(Ani alpha/First Step→/適度に楽しむ遊び/オタリンピック)</dd><dd>2015年11月末デビュー<br>アマガミと出会いオタクとなりWUGやあおかなにハマる。<br>最近はちょくちょくDJもやってます！</dd></dl>
+</div></li>
+
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/mitsuki.jpg" alt="美月" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">STAFF</p><p class="picon"><a href="https://twitter.com/_mzk0x0_" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+
+<dl><dt>美月</dt><dd class="credit">(オタリンピック)</dd><dd>中川翔子、水樹奈々が出るライブを中心にいろんなイベントに出現する現場系オタク。<br>歌ったり踊ったりイベント主催もしてます。<br>今回スタッフとして初参加します！みなさんがより楽しめるように頑張ります！よろしくお願いします♪</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/kanoyo.jpg" alt="かのよ" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">STAFF</p><p class="picon"><a href="https://twitter.com/kano4r" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+
+<dl><dt>かのよ</dt><dd class="credit">(こすのん)</dd><dd>駆け出しDJしつつ、まったりとコスプレもしてます！インドアで体力がないので、アニクラに行く度、筋肉痛になる。<br>
+定期的に大洗に帰省するガルパンおじさんです。蒼き鋼のアルペジオ推し。アイマスに生かされてる。まずは私とお友達になってくれませんか……！</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/saktas.jpg" alt="さくたす" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">STAFF</p><p class="picon"><a href="https://twitter.com/bnnbng_skr" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+
+<dl><dt>さくたす</dt><dd class="credit">(今日のもんす)</dd><dd>今日のもんすのお人。<br>みーんなトモダチ、みーんなアイドル！<br>
+日曜お昼は秋葉原mograで僕と握手<br>ヽ(｀･ω･´)ﾉ</dd></dl>
+</div></li>
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/aya.jpg" alt="あや" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">STAFF</p><p class="picon"><a href="https://twitter.com/lilact_anmt" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+
+<dl><dt>あや</dt><dd class="credit">(あにすた)</dd><dd>新人ですけど頑張ります！</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img src="http://snark.sub.jp/bokuani/img/crew/mushiro.jpg" alt="むしろ" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">STAFF</p><p class="picon"><a href="https://twitter.com/musiro_s" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a></p></div>
+
+<dl><dt>むしろ</dt><dd class="credit"></dd><dd>今回からカメラマンとして参加します！よろしくお願いします。</dd></dl>
+</div></li>
+
+<li class="crew"><p class="acoa"><img style="filter:grayscale(100%);" src="http://snark.sub.jp/bokuani/img/crew/kokochi.jpg" alt="ここちん" class="asha"></p>
+<div class="acob">
+<div class="up"><p class="clown">DJ</p><p class="picon"><a href="https://twitter.com/cocopepe_32" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/twitter.png" alt="twitter"></a><a href="https://soundcloud.com/cocochin_32" target="_blank"><img src="http://snark.sub.jp/bokuani/img/crew/soundcloud.png" alt="soundcloud"></a></p></div>
+
+<dl><dt>ココチ「ん」</dt><dd class="credit">（歌踊好/M@STER GROOVE!!）</dd><dd>今回はお休みです。</dd></dl>
+</div></li>
+
+</ul>
+<div class="button_box"><p><a href="http://twvt.me/bokuani001" class="button_link">twinvite参加表明はこちら</a></p>
+</div>
+</div><!-------/container-------->
+
+
+<div class="container timetablecont">
+<div class="layerTransparent">
+<h2>TIME TABLE</h2>
+<div class="timetable">
+	<dl><dt>13:00</dt><dd>はるいぬ</dd></dl>
+	<dl><dt>13:40</dt><dd>ハンバーグ</dd></dl>
+	<dl><dt>14:20</dt><dd>すなぁく</dd></dl>
+	<dl><dt>15:00</dt><dd>01(ゲスト)</dd></dl>
+	<dl><dt>15:40</dt><dd>SHOOON(ゲスト)</dd></dl>
+	<dl><dt>16:20</dt><dd>すまいり</dd></dl>
+	<dl><dt>17:00</dt><dd>MarGenal(ゲスト)</dd></dl>
+	<dl><dt>17:40</dt><dd>はいすこあぼ〜い</dd></dl>
+	<dl><dt>18:20</dt><dd>キヤ</dd></dl>
+	<dl><dt>19:00</dt><dd>終了挨拶</dd></dl>
+	</div></div>
+
+</div>
+
+
+<div class="container white">
+<h2>PARTY VENUE</h2>
+<div class="venue venueboxl">
+	<dl>
+	<dt><a href="http://club-mogra.jp/">秋葉原MOGRA</a></dt>
+		<dd>JR秋葉原駅中央口 約5分</dd>
+		<dd>東京メトロ銀座線末広町駅 約5分</dd>
+		<dd>〒110-0006</dd>
+		<dd>東京都台東区秋葉原3-11-B1</dd>
+		<dd>TEL FAX: 03-6206-8338</dd>
+	</dl>
+</div>
+
+</div>
+
+<div class="container green attention">
+<h2>ATTENTION</h2>
+<div class="atten">
+	<h3>注意事項</h3>
+		<ul>
+		<li>貴重品・荷物の管理は各自で行って下さい。会場内のコインロッカー、クロークまたは駅等のコインロッカーをご利用ください。会場内に荷物を置くことは他の方の迷惑になりますのでご遠慮下さい。</li>
+		<li>貴重品・荷物の紛失・盗難に関して当イベントは責任を負いかねます。</li>
+		<li>未成年の飲酒・喫煙は固く禁止されています。見つけ次第、退出をしていただきます。</li>
+		<li>喫煙できるスペースはラウンジのみとなっています。分煙にご協力下さい。</li>
+		<li>お酒の飲みすぎには注意しましょう。他者の迷惑にならぬよう楽しく飲みましょう。</li>
+		<li>ナンパ・セクハラ・勧誘等、他者への迷惑行為はご遠慮いただいております。注意喚起に従わない場合は退出していただきます。</li>
+		<li>再入場することはできません。また飲食物の持ち込みも禁止されています。</li>
+		<li>不手際により機材・スピーカー等の備品が破損した場合、弁償・修理費を請求する場合がございます。</li>
+		</ul>
+</div>
+
+</div>
+<div class="container twitter gray">
+<h2>Twitter</h2>
+<div class="twibox">
+<p><a href="https://twitter.com/bokuani1" target="_blank"><img src="http://snark.sub.jp/bokuani/img/twittterIcon.jpg" alt="ぼくアニツイッター"></a></p>
+
+		<ul>
+		<li>@bokuani1</li>
+		<li>#ぼくアニ</li>
+		<li>フォローよろしくお願いします！</li>
+		<li id="join">twinvite参加表明もよろしくね！</li>
+		</ul>
+		
+</div>
+</div>
+</body>
+</html>
